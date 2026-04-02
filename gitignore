@@ -1,0 +1,12 @@
+# Ignore saved bookings (runtime data)
+bookings.json
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE files
+.vscode/
+.idea/
+*.DS_Store

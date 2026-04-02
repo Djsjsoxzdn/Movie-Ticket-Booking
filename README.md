@@ -73,7 +73,7 @@ movie-ticket-booking/
 
 ## 👥 Team Members
 
-1.  Sai Goutham Reddy .p
+1.Sai Goutham Reddy .p
 2.Hemanth kumar.p
 3.Rohith G 
 4.Shabbeer Ahammad.D
